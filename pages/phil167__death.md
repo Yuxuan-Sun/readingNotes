@@ -11,4 +11,6 @@ title: PHIL167: Death
 ### [[idealism]] only minds
 ## 2 - soul exists or not
 ### [[Inference to the best explanation]] WTS there exits sth that physicalism couldn't explain that has to rely on soul
+#### ordinary features of us
+#### supernatural aspects of us
 ###
