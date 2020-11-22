@@ -9,4 +9,6 @@ title: PHIL167: Death
 ### [[dualism]]body and view
 ### [[physicalism]] a person is just a material object: body
 ### [[idealism]] only minds
+## 2 - soul exists or not
+### [[Inference to the best explanation]]
 ###
