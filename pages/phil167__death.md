@@ -12,5 +12,5 @@ title: PHIL167: Death
 ## 2 - soul exists or not
 ### [[Inference to the best explanation]] WTS there exits sth that physicalism couldn't explain that has to rely on soul
 #### ordinary features of us
+##### could a purely physical being fall in love?
 #### supernatural aspects of us
-###
