@@ -7,6 +7,6 @@ title: PHIL167: Death
 ### link: https://www.bilibili.com/video/BV1P7411C7Gz?from=search&seid=3883955328958532978
 ## 1 - what's a person/personal identity
 ### [[dualism]]body and view
-### [[monist view]] a person is just a material object: body
+### [[physicalism]] a person is just a material object: body
 ### [[idealism]] only minds
 ###
