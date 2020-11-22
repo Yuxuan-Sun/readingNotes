@@ -10,5 +10,5 @@ title: PHIL167: Death
 ### [[physicalism]] a person is just a material object: body
 ### [[idealism]] only minds
 ## 2 - soul exists or not
-### [[Inference to the best explanation]]
+### [[Inference to the best explanation]] WTS there exits sth that physicalism couldn't explain that has to rely on soul
 ###
